@@ -1,2 +1,2 @@
 # Spam-Detection
-Detects and classify a mail into promotional, updates, social, or primary
+Detects and classifies a mail into promotional, updates, social, or primary
